@@ -71,12 +71,36 @@ pip install numpy torch matplotlib pandas scikit-learn
 ---
 
 ## Usage
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ria-K912/PINN-Implementation.git
-   cd PINN-Implementation
 
-   ```
+1. **Run the desired code file to reproduce the results:**
+
+   - **For a comprehensive demonstration of PINNs:**
+     ```bash
+     python PINN_Full_Code.ipynb
+     ```
+
+   - **To solve the 1D Heat Equation using PINNs:**
+     ```bash
+     python PINN_for_1D_Heat_Equation.py
+     ```
+
+   - **To solve the Heat and Moisture Transport in 2D:**
+     ```bash
+     python PINN_for_Heat_and_Moisture_Transport_in_2D.py
+     ```
+
+   - **To solve the 2D Transient Heat Equation:**
+     ```bash
+     python PINN_for_2D_Transient_Heat_Equation.py
+     ```
+
+   - **To solve the 1D Seismic Wave Equation using PINNs:**
+     ```bash
+     python PINN_for_1D_Seismic_Wave_Equation.py
+     ```
+
+2. Each code file includes instructions to execute specific simulations or analyses. Refer to the comments in the code files for further details.
+
 ---
 
 ## Results and Visualization

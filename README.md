@@ -69,7 +69,8 @@ The following libraries are required to run the codes:
 - **PyTorch**
 - **Matplotlib**
 - **Pandas** 
-- **scikit-learn** 
+- **scikit-learn**
+- **torch**
 
 To install dependencies, run:
 ```bash

@@ -70,7 +70,7 @@ The following libraries are required to run the codes:
 - **Matplotlib**
 - **Pandas** 
 - **scikit-learn**
-- **torch**
+
 
 To install dependencies, run:
 ```bash

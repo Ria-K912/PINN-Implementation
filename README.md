@@ -66,6 +66,13 @@ To install dependencies, run:
 ```bash
 pip install numpy torch matplotlib pandas scikit-learn
 ```
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-repository-link.git
+   cd your-repository
+   ```
 ## Results and Visualization
 Each code file includes visualizations comparing PINN predictions with ground truth data (FDM results). Use the corresponding scripts to reproduce the plots.
 

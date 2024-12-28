@@ -29,7 +29,11 @@ Below is a summary of the included codes and their purposes:
    - Use this file to explore a comprehensive demonstration of PINNs applied to different physical equations, including seismic wave equation and heat diffusion.
 
 2. **Code 2 - PINN for 1D Heat Equation:**
-- Solves \( \frac{\partial^2 T}{\partial x^2} = q \) using PINNs.
+- Solves the equation:
+  \[
+  \frac{\partial^2 T}{\partial x^2} = q
+  \]
+  using PINNs.
 - Compares results with FDM-generated ground truth.
 
 ---

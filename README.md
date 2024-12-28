@@ -32,7 +32,6 @@ Below is a summary of the included codes and their purposes:
   \frac{\partial^2 T}{\partial x^2} = q
   $$
   using PINNs.
-- Compares results with FDM-generated ground truth.
 
 ---
 
@@ -44,8 +43,7 @@ Below is a summary of the included codes and their purposes:
   $$
   \frac{\partial^2 W}{\partial x^2} + \frac{\partial^2 W}{\partial y^2} = q_W
   $$
-- Compares PINN predictions with FDM results.
-
+  
 ---
 
 ### Code 4 - PINN for 2D Transient Heat Equation:
@@ -53,7 +51,6 @@ Below is a summary of the included codes and their purposes:
   $$
   \frac{\partial T}{\partial t} = \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right)
   $$
-- Visualizes transient heat distribution.
 
 ---
 
@@ -62,7 +59,6 @@ Below is a summary of the included codes and their purposes:
   $$
   \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}
   $$
-- Validates results against FDM-generated ground truth.
 
 ---
 

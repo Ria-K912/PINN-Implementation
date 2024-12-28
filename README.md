@@ -66,6 +66,8 @@ To install dependencies, run:
 ```bash
 pip install numpy torch matplotlib pandas scikit-learn
 ```
+## Results and Visualization
+Each code file includes visualizations comparing PINN predictions with ground truth data (FDM results). Use the corresponding scripts to reproduce the plots.
 
 ## References
 For more information and insights into Physics-Informed Neural Networks (PINNs), please refer to:

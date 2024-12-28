@@ -16,10 +16,12 @@ This repository contains implementations of Physics-Informed Neural Networks (PI
 
 ## Introduction
 Physics-Informed Neural Networks (PINNs) are a powerful tool for solving PDEs by leveraging neural networks and enforcing physical constraints. This repository includes:
-- PINNs for 1D and 2D heat equations.
-- PINNs for 1D seismic wave equations.
+- PINN for 1D Heat equations.
+- PINN for Heat and Moisture Transport in 2D.
+- PINN for 2D Transient Heat Equation.
+- PINN for 1D Seismic Wave Equation.
 - Comparison with Finite Difference Methods (FDM) for validation.
-- PINNs for experimental data prediction.
+  
 
 ---
 

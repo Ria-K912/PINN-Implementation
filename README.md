@@ -74,32 +74,32 @@ pip install numpy torch matplotlib pandas scikit-learn
 
 1. **Run the desired code file to reproduce the results:**
 
-   - **For a comprehensive demonstration of PINNs:**
+   - **For a comprehensive demonstration of PINN:**
      ```bash
      python PINN_Full_Code.ipynb
      ```
 
-   - **To solve the 1D Heat Equation using PINNs:**
+   - **To solve the 1D Heat Equation using PINN:**
      ```bash
      python PINN_for_1D_Heat_Equation.py
      ```
 
-   - **To solve the Heat and Moisture Transport in 2D:**
+   - **To solve the Heat and Moisture Transport in 2D using PINN:**
      ```bash
      python PINN_for_Heat_and_Moisture_Transport_in_2D.py
      ```
 
-   - **To solve the 2D Transient Heat Equation:**
+   - **To solve the 2D Transient Heat Equation using PINN:**
      ```bash
      python PINN_for_2D_Transient_Heat_Equation.py
      ```
 
-   - **To solve the 1D Seismic Wave Equation using PINNs:**
+   - **To solve the 1D Seismic Wave Equation using PINN:**
      ```bash
      python PINN_for_1D_Seismic_Wave_Equation.py
      ```
 
-2. Each code file includes instructions to execute specific simulations or analyses. Refer to the comments in the code files for further details.
+2. Each code file includes instructions to execute specific simulations or analyses. For further details, refer to the comments in the code files.
 
 ---
 

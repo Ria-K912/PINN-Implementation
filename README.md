@@ -22,7 +22,6 @@ Physics-Informed Neural Networks (PINNs) are a powerful tool for solving PDEs by
 - PINNs for experimental data prediction.
 
 ---
-
 ## Code Files
 Below is a summary of the included codes and their purposes:
 
@@ -61,5 +60,15 @@ The following libraries are required to run the codes:
 To install dependencies, run:
 ```bash
 pip install numpy torch matplotlib pandas scikit-learn
+
+---
+
+## References
+
+For more information and insights into Physics-Informed Neural Networks (PINNs), please refer to:
+
+- **[UCI PINN Project Page](https://projects.eng.uci.edu/projects/2023-2024/physical-informed-neural-network-pinn)**: A comprehensive resource on the application of PINNs for solving physical problems.
+- **[Physics-Informed Neural Networks: A Simple Tutorial with PyTorch](https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a)**: A beginner-friendly tutorial introducing PINNs with PyTorch.
+
 
 

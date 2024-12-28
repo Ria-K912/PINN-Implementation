@@ -65,3 +65,4 @@ The following libraries are required to run the codes:
 To install dependencies, run:
 ```bash
 pip install numpy torch matplotlib pandas scikit-learn
+```

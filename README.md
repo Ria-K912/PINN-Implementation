@@ -62,3 +62,13 @@ The following libraries are required to run the codes:
 To install dependencies, run:
 ```bash
 pip install numpy torch matplotlib pandas scikit-learn
+
+---
+
+## References
+
+For more information and insights into Physics-Informed Neural Networks (PINNs), please refer to:
+
+- [UCI PINN Project Page](https://projects.eng.uci.edu/projects/2023-2024/physical-informed-neural-network-pinn)
+- [Physics-Informed Neural Networks: A Simple Tutorial with PyTorch](https://medium.com/@theo.wolf/physics-informed-neural-networks-a-simple-tutorial-with-pytorch-f28a890b874a)
+

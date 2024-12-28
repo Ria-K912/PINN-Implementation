@@ -26,36 +26,26 @@ Physics-Informed Neural Networks (PINNs) are a powerful tool for solving PDEs by
 ## Code Files
 Below is a summary of the included codes and their purposes:
 
-### Code 2 - PINN for 1D Heat Equation:
-- Solves the equation![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)  using PINNs.
+### Code 1 - PINN_Full_Code:
+   - Consolidated version of all individual code files.
+   - Combines PINN implementations for various problems, integrating comparisons with FDM.
 
+
+### Code 2 - PINN for 1D Heat Equation:
+- Solves the equation:![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)  using PINNs.
 ---
 
 ### Code 3 - PINN for Heat and Moisture Transport in 2D:
-- Solves coupled heat and moisture diffusion equations:
-  $$
-  \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} = q_T
-  $$
-  $$
-  \frac{\partial^2 W}{\partial x^2} + \frac{\partial^2 W}{\partial y^2} = q_W
-  $$
-  
+- Solves coupled heat and moisture diffusion equations:![image](https://github.com/user-attachments/assets/3e220ef7-7038-406e-8096-3b559b459876)
 ---
 
 ### Code 4 - PINN for 2D Transient Heat Equation:
-- Solves:
-  $$
-  \frac{\partial T}{\partial t} = \alpha \left( \frac{\partial^2 T}{\partial x^2} + \frac{\partial^2 T}{\partial y^2} \right)
-  $$
-
+- Solves the equation:![image](https://github.com/user-attachments/assets/d9bfd752-2a82-496c-a4ed-c7e497be7165)
 ---
 
 ### Code 5 - PINN for 1D Seismic Wave Equation:
-- Solves:
-  $$
-  \frac{\partial^2 u}{\partial t^2} = c^2 \frac{\partial^2 u}{\partial x^2}
-  $$
-
+- Solves the equation:![image](https://github.com/user-attachments/assets/3793e212-0b30-4a4d-ac8c-84a23fdcbcaf)
+  
 ---
 
 ## Dependencies

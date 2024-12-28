@@ -34,25 +34,25 @@ Below is a summary of the included codes and their purposes:
 ### Code 2 - PINN for 1D Heat Equation:
 - Solves the equation:
 -
-- ![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)  using PINNs.
+ ![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)  using PINNs.
 ---
 
 ### Code 3 - PINN for Heat and Moisture Transport in 2D:
 - Solves coupled heat and moisture diffusion equations:
 -
-- ![image](https://github.com/user-attachments/assets/3e220ef7-7038-406e-8096-3b559b459876)
+  ![image](https://github.com/user-attachments/assets/3e220ef7-7038-406e-8096-3b559b459876)
 ---
 
 ### Code 4 - PINN for 2D Transient Heat Equation:
 - Solves the equation:
 -
-- ![image](https://github.com/user-attachments/assets/d9bfd752-2a82-496c-a4ed-c7e497be7165)
+  ![image](https://github.com/user-attachments/assets/d9bfd752-2a82-496c-a4ed-c7e497be7165)
 ---
 
 ### Code 5 - PINN for 1D Seismic Wave Equation:
 - Solves the equation:
 -
-- ![image](https://github.com/user-attachments/assets/3793e212-0b30-4a4d-ac8c-84a23fdcbcaf)
+  ![image](https://github.com/user-attachments/assets/3793e212-0b30-4a4d-ac8c-84a23fdcbcaf)
   
 ---
 

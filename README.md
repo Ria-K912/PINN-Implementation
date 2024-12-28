@@ -27,10 +27,7 @@ Physics-Informed Neural Networks (PINNs) are a powerful tool for solving PDEs by
 Below is a summary of the included codes and their purposes:
 
 ### Code 2 - PINN for 1D Heat Equation:
-- Solves the equation:
-  ![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)
-
-  using PINNs.
+- Solves the equation![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)  using PINNs.
 
 ---
 

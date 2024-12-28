@@ -28,9 +28,8 @@ Below is a summary of the included codes and their purposes:
 
 ### Code 2 - PINN for 1D Heat Equation:
 - Solves the equation:
-  $$
-  \frac{\partial^2 T}{\partial x^2} = q
-  $$
+  ![image](https://github.com/user-attachments/assets/c11dfd3c-b852-4840-a637-a3c06282ba02)
+
   using PINNs.
 
 ---
